@@ -12,6 +12,6 @@ Screenshot of Healthcare app Design Task-2
 
 ![task2](https://github.com/user-attachments/assets/37fc5e8a-9efc-4ad5-890f-0d5f849ee381)
 
-// Cliniq helps the user to easily login to the app or create their account, it tracks the user's health & also let's user choose the medical professional of their choice ⚕️
+// Cliniq helps the users to easily login to the app or create their account, it tracks the user's health & also lets users choose the medical professional of their choice ⚕️
 
 ![task2](https://github.com/user-attachments/assets/e835a17b-3fbc-4dd2-bdb7-8fee628fb6e6)
