@@ -9,3 +9,4 @@ Screenshot of Healthcare app Design Task-2
 >> User-Centered Healthcare app
 
 ![task2](https://github.com/user-attachments/assets/37fc5e8a-9efc-4ad5-890f-0d5f849ee381)
+![task2](https://github.com/user-attachments/assets/e835a17b-3fbc-4dd2-bdb7-8fee628fb6e6)
