@@ -1,4 +1,4 @@
-# CODTECH-IT SOLUTIONS >> UI/UX INTERNSHIP
+# Designed Using Figma
 Screenshot of Dashboard Design Task-1
 >> A basic dashboard interface that gives Product Overview 
 
