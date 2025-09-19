@@ -25,70 +25,70 @@ This repository showcases a diverse portfolio of UI/UX design projects created u
 
 ![Dashboard](https://github.com/user-attachments/assets/8189459b-90ca-4e7b-8d98-936de32cf353)
 
-A comprehensive dashboard interface designed for product managers to analyze key metrics and make data-driven decisions [attached_file:1].
+A comprehensive dashboard interface designed for product managers to analyze key metrics and make data-driven decisions.
 
 **Key Features:**
-- **Global Analytics** - Track users, downloads, and registrations worldwide 🌍 [attached_file:1]
-- **Product Overview** - Comprehensive product performance insights [attached_file:1]
-- **User Management** - Detailed user analytics and behavior tracking [attached_file:1]
+- **Global Analytics** - Track users, downloads, and registrations worldwide 🌍 
+- **Product Overview** - Comprehensive product performance insights
+- **User Management** - Detailed user analytics and behavior tracking 
 - **Interactive Visualizations** - Charts, graphs, and real-time data displays
 
 **Design Challenges Solved:**
-- Information hierarchy for complex data sets [web:121]
+- Information hierarchy for complex data sets
 - Responsive dashboard layouts for different screen sizes
 - Intuitive navigation for multiple user roles
-- Data visualization accessibility and clarity [web:123]
+- Data visualization accessibility and clarity 
 
 ### 🏥 Healthcare App Design - Task 2
 **User-Centered Medical Application - "Cliniq"**
 ![task2](https://github.com/user-attachments/assets/37fc5e8a-9efc-4ad5-890f-0d5f849ee381)
 ![task2](https://github.com/user-attachments/assets/e835a17b-3fbc-4dd2-bdb7-8fee628fb6e6)
 
-A comprehensive healthcare application focusing on user experience and accessibility in medical services [attached_file:1].
+A comprehensive healthcare application focusing on user experience and accessibility in medical services 
 
 **Core Functionality:**
-- **User Authentication** - Secure login and account creation system [attached_file:1]
-- **Health Tracking** - Personal health monitoring and progress visualization [attached_file:1]
-- **Provider Selection** - Choose medical professionals based on preferences ⚕️ [attached_file:1]
+- **User Authentication** - Secure login and account creation system
+- **Health Tracking** - Personal health monitoring and progress visualization 
+- **Provider Selection** - Choose medical professionals based on preferences ⚕️ 
 - **Appointment Management** - Seamless booking and scheduling interface
 
 **User Experience Focus:**
-- **Accessibility First** - Designed for users with varying technical abilities [web:125]
+- **Accessibility First** - Designed for users with varying technical abilities
 - **Trust & Security** - Clear privacy controls and data transparency
 - **Personalization** - Customized experience based on health needs
-- **Emergency Access** - Quick access to critical health information [web:121]
+- **Emergency Access** - Quick access to critical health information 
 
 ## 💭 Design Philosophy
 
 ### User-Centered Approach
-Every design decision is grounded in user research, usability testing, and iterative feedback to ensure optimal user experiences [web:123][web:127].
+Every design decision is grounded in user research, usability testing, and iterative feedback to ensure optimal user experiences 
 
 ### Data-Driven Design
-Leveraging analytics and user behavior insights to inform interface decisions and improve conversion rates [web:125].
+Leveraging analytics and user behavior insights to inform interface decisions and improve conversion rates.
 
 ### Accessibility & Inclusion
-Designing with WCAG guidelines and universal design principles to ensure products are usable by everyone [web:121][web:125].
+Designing with WCAG guidelines and universal design principles to ensure products are usable by everyone.
 
 ### Scalable Systems
-Creating design systems and component libraries that grow with product requirements and team needs [web:123].
+Creating design systems and component libraries that grow with product requirements and team needs.
 
 ## 🛠️ Skills Demonstrated
 
 ### **UI Design Excellence**
-- **Visual Hierarchy** - Clear information architecture and content organization [web:121]
+- **Visual Hierarchy** - Clear information architecture and content organization 
 - **Typography Systems** - Consistent and readable text treatments across platforms
-- **Color Theory** - Strategic use of color for branding and user guidance [web:125]
+- **Color Theory** - Strategic use of color for branding and user guidance 
 - **Icon Design** - Custom iconography and visual symbols for enhanced usability
 
 ### **UX Research & Strategy**
-- **User Journey Mapping** - Comprehensive flow analysis and touchpoint optimization [web:123]
-- **Persona Development** - Evidence-based user archetype creation [web:125]
-- **Information Architecture** - Logical content structure and navigation design [web:121]
-- **Usability Testing** - Iterative testing and design validation processes [web:127]
+- **User Journey Mapping** - Comprehensive flow analysis and touchpoint optimization 
+- **Persona Development** - Evidence-based user archetype creation 
+- **Information Architecture** - Logical content structure and navigation design 
+- **Usability Testing** - Iterative testing and design validation processes 
 
 ### **Interaction Design**
-- **Microinteractions** - Subtle animations and feedback systems [web:125]
+- **Microinteractions** - Subtle animations and feedback systems 
 - **Responsive Design** - Cross-device compatibility and adaptive layouts
-- **Prototyping** - High-fidelity interactive mockups and user flows [web:123]
+- **Prototyping** - High-fidelity interactive mockups and user flows
 - **Design Systems** - Reusable component libraries and style guides
 
