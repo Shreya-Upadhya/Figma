@@ -10,7 +10,7 @@ A curated collection of UI/UX design projects showcasing modern interface design
 
 ## 🎯 Overview
 
-This repository showcases a diverse portfolio of UI/UX design projects created using Figma, demonstrating expertise in user interface design, user experience research, and digital product strategy. Each project represents a thoughtful approach to solving real-world design challenges through user-centered design principles.
+This repository showcases UI/UX design projects created using Figma, demonstrating expertise in user interface design, user experience research, and digital product strategy. Each project represents a thoughtful approach to solving real-world design challenges through user-centered design principles.
 
 **Portfolio Highlights:**
 - **Dashboard Analytics** - Data visualization and business intelligence interfaces
@@ -21,23 +21,33 @@ This repository showcases a diverse portfolio of UI/UX design projects created u
 ## 🚀 Featured Projects
 
 ### 📊 Dashboard Design - Task 1
-**Product Analytics & Management Interface**
+**Product Overview Dashboard**
 
 ![Dashboard](https://github.com/user-attachments/assets/8189459b-90ca-4e7b-8d98-936de32cf353)
 
-A comprehensive dashboard interface designed for product managers to analyze key metrics and make data-driven decisions.
+A modern and clean **dashboard design** created in **Figma** to visualize product analytics, user activity, and server statistics. This design provides a quick overview of business metrics and can be extended into a real web application using frameworks like React.js, Firebase, or Node.js.
 
-**Key Features:**
-- **Global Analytics** - Track users, downloads, and registrations worldwide 🌍 
-- **Product Overview** - Comprehensive product performance insights
-- **User Management** - Detailed user analytics and behavior tracking 
-- **Interactive Visualizations** - Charts, graphs, and real-time data displays
+## ✨ Features
 
-**Design Challenges Solved:**
-- Information hierarchy for complex data sets
-- Responsive dashboard layouts for different screen sizes
-- Intuitive navigation for multiple user roles
-- Data visualization accessibility and clarity 
+* **Product Overview** – Centralized dashboard for performance tracking.
+* **Website Traffic** – Donut chart showing registered users, visitors, and other segments.
+* **Total Downloads** – Line graph to track download growth trends.
+* **Product Visitors** – Comparative line chart to visualize user activity over time.
+* **Most Active Users** – Sidebar widget highlighting top active users with profile images.
+* **General Overview** – Weekly insights including:
+
+  * 📈 New users count
+  * 📉 Downloads trend
+* **Daily Goals Tracking** – Visual representation of daily achievements.
+* **Server Statistics** – Monitors disk usage, bandwidth, memory, CPU load, and storage.
+* **Sidebar Navigation** – Quick access to dashboard sections via intuitive icons.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Design Tool**: [Figma](https://www.figma.com/)
+  
 
 ### 🏥 Healthcare App Design - Task 2
 **User-Centered Medical Application - "Cliniq"**
